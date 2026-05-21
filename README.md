@@ -1,3 +1,7 @@
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1-blue)
+![DNSSEC](https://img.shields.io/badge/DNSSEC-enabled-green)
+![Wireshark](https://img.shields.io/badge/Wireshark-traffic_analysis-lightblue)
 # Advanced DNS Security Lab
 
 This project demonstrates advanced DNS security implementation on Windows Server 2022 in a simulated enterprise environment.
