@@ -91,7 +91,7 @@ The implementation was tested using:
 
 Full project documentation is available in the PDF file:
 
-- `windows-server-dns-security-lab-FilipMalinowski.pdf`
+- [Full Project Documentation](./windows-server-dns-security-lab-FilipMalinowski.pdf)
 
 ---
 
